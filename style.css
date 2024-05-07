@@ -30,3 +30,10 @@
   display: flex;
   text-align: center;
 }
+@media screen and (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+  /* For example, reduce font sizes or adjust padding */
+  body {
+    font-size: 14px;
+  }
+}
