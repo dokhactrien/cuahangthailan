@@ -1,13 +1,14 @@
-h1 {
+.index h1 {
   text-align: center;
   font-size: 80px;
   color: #ce91be;
   font-style: italic;
 }
-body {
+.index body {
   background-color: #bed8cd;
+  max-width: 768px;
 }
-pre {
+.index pre {
   font-size: 14px;
   text-align: center;
   font-style: italic;
@@ -19,7 +20,7 @@ pre {
   font-size: 20px;
   width: 700px;
   height: 50px;
-  background-color: #ce91be;
+  background-color: #e1a8d1;
   padding: 10px;
   border: 2px solid black;
   border-radius: 10px;
